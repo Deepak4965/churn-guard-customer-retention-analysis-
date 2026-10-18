@@ -5,7 +5,7 @@ leave (churn). It uses Python for exploratory data analysis and Power BI for
 an interactive retention dashboard.
 
 ## Dashboard Preview
-![Churn Guard Dashboard](customer_churn_dsahboard.png)
+   ![Churn Guard Dashboard](images/customer_churn_dsahboard.png)
 
 ## Project Overview
 Customer churn directly reduces revenue. This project identifies which
